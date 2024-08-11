@@ -925,8 +925,21 @@ MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
 [2J8[0mplayit (v0.15.18): 1723420489981 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsk8AAAAZFD3bkcAAAAAQAAAAEAAAAAAAAAACu7GUcJmf5xy45M-SBdfCAEGziKDpYR33oUm_CjIQcX
+login: htt[2J8[0mplayit (v0.15.18): 1723420492099 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsk8AAAAZFD3cFfAAAAAQAAAAEAAAAAAAAAAEuEbrIMEZpA7Z4jX-oec8DBnuVa8eJi_WxamtUCE4fO
+
+TUNNELS
+ed-concerns.gl.joinmc.link => 127.0.0.1:[2J8[0mplayit (v0.15.18): 1723420493095 tunnel running, 2 tunnels registered
+
+login: htt[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+GUcJmf5xy45M-SBdfCAEGziKDpYR33oUm_CjIQcX
 
 TUNNELS
 ed-concerns.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offers-sofa.gl.at.ply.gg:4970 => 127.0.0.1:4970 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
