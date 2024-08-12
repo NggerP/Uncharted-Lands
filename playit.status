@@ -616,3 +616,13 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsk8AAAAZFEz5jZAAA
 TUNNELS
 ed-concerns.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offers-sofa.gl.at.ply.gg:4970 => 127.0.0.1:4970 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723436344544 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAsk8AAAAZFEz5jZAAAAAQAAAAEAAAAAAAAAANmplKIr8FoPDW4ZFzPb88HGxO4ycF3rDg6fmZM4JtVy
+
+TUNNELS
+ed-concerns.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offers-sofa.gl.at.ply.gg:4970 => 127.0.0.1:4970 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
